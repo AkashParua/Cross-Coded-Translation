@@ -50,3 +50,4 @@ try out the `final_implementation.ipynb`
 ## I AM NOT ABLE TO RUN ENG-HINDI(PURE) MODEL IN MY MAHCINE SO I WOLD BE USING GOOGLE TRANSLATION API
 Get google Translate API keys from [API_Key](https://rapidapi.com/googlecloud/api/google-translate1)
 
+(Note: I was not able to produce more test reuslts becuase of monthly API limitaions)
