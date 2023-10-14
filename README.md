@@ -44,4 +44,9 @@ Make sure the file structure is -<br>
 ### Now we are ready to populate the knowledge_base !!🚀
 ### ⚠️⚠️ Unfortunately due to hardware constrain the model is not very accurate (trained for only 3 epochs) ⚠️⚠️ 
 ### Hence we used spaCy , NLP model to remove false positives (words that should remain in hindi but are being translated to english)
-We do so by removing the "Verbs" that are mistakently suggested to be english words
+Because of all the false positive we only consider the nouns<br>
+try out the `final_implementation.ipynb`
+
+## I AM NOT ABLE TO RUN ENG-HINDI(PURE) MODEL IN MY MAHCINE SO I WOLD BE USING GOOGLE TRANSLATION API
+Get google Translate API keys from [API_Key](https://rapidapi.com/googlecloud/api/google-translate1)
+

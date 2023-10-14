@@ -1,2 +1,3 @@
 english_to_hinglish_tokenizer/
 my-t5-hinglish-translator/
+.env
