@@ -45,9 +45,11 @@ Make sure the file structure is -<br>
 ### ⚠️⚠️ Unfortunately due to hardware constrain the model is not very accurate (trained for only 3 epochs) ⚠️⚠️ 
 ### Hence we used spaCy , NLP model to remove false positives (words that should remain in hindi but are being translated to english)
 Because of all the false positive we only consider the nouns<br>
-try out the `final_implementation.ipynb`
+## Final Implementation `final_implementation.ipynb` (follow instructions in notebook)
 
 ## UNABLE TO RUN ENG to HINDI(PURE) MODEL DUE TO HARDWARE CONSTRAIN SO I WOULD BE USING GOOGLE TRANSLATION API INSTEAD
 Get google Translate API keys from [API_Key](https://rapidapi.com/googlecloud/api/google-translate1)
 
 (Note: I was not able to produce more test reuslts becuase of monthly API limitaions)
+
+contact akashparua999@gmail.com in case for assistance
