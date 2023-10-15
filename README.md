@@ -53,7 +53,7 @@ Download [transalator](https://drive.google.com/file/d/1ekwzOLTV20sg2o_VLaCUBZAz
 Download [tokenizer](https://drive.google.com/file/d/1dpJNWn2nRMpTa2M5cqTWiCdLF3hnpyvc/view?usp=sharing)<br>
 Extract the files<br>
 Make sure the file structure is -<br>
-![Local](dir.png)
+![Drive](dir.png)
 ### Now we are ready to populate the knowledge_base !!🚀
 ### ⚠️⚠️ Unfortunately due to hardware constrain the model is not very accurate (trained for only 3 epochs) ⚠️⚠️ 
 ### Hence we used spaCy , NLP model to remove false positives (words that should remain in hindi but are being translated to english)
