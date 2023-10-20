@@ -18,6 +18,7 @@ Output: Mujhe sirf 30 minut ka demo mila tha us naye headset ka istemal karne ke
 `my-t5-hinglish-translator` directory to the translator<br>
 `train_full_crosscoded.ipynb` script to train fully cross-coded english to hinglish translator<br>
 `full_cross_coding_translation.ipynb` script to translate english to fully cross coded hinglish<br>
+`train-cross-coding.ipynb` kaggle sheet <br>
 
 
 ## Usage
@@ -35,3 +36,6 @@ Download [tokenizer](https://drive.google.com/file/d/1dpJNWn2nRMpTa2M5cqTWiCdLF3
 Extract the files<br>
 Make sure the file structure is -<br>
 ![Drive](dir.jpg)
+
+## Kaggle Sheet 
+![Kaggle](https://www.kaggle.com/code/akashparua/train-cross-coding)
