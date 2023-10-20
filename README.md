@@ -38,4 +38,4 @@ Make sure the file structure is -<br>
 ![Drive](dir.jpg)
 
 ## Kaggle Sheet 
-![Kaggle](https://www.kaggle.com/code/akashparua/train-cross-coding)
+Kaggle [Kaggle](https://www.kaggle.com/code/akashparua/train-cross-coding)
